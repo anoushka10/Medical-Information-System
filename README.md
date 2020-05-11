@@ -1,4 +1,4 @@
 # Medical-Information-System
-Medical Information system website codes.
-Add tables on your system for each page accordingly.
-Run on licalhost.
+1) Medical Information system website codes.
+2) Add tables on your system for each page accordingly.
+3) Run on localhost.
